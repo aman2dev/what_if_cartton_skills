@@ -1,0 +1,282 @@
+{
+ "slug": "mars-stuck",
+ "title": "WHAT IF YOU WERE STUCK ON MARS?",
+ "fps": 30,
+ "total": 706,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 99,
+   "t0": 0,
+   "t1": 99,
+   "line": "No water. Dig. Ice under the dirt."
+  },
+  {
+   "shot": "S2",
+   "a": 99,
+   "b": 160,
+   "t0": 0,
+   "t1": 61,
+   "line": "Melt it. No air."
+  },
+  {
+   "shot": "S3",
+   "a": 160,
+   "b": 226,
+   "t0": 0,
+   "t1": 66,
+   "line": "The machine splits carbon dioxide."
+  },
+  {
+   "shot": "S4",
+   "a": 226,
+   "b": 252,
+   "t0": 0,
+   "t1": 26,
+   "line": "Breathe."
+  },
+  {
+   "shot": "S5",
+   "a": 252,
+   "b": 272,
+   "t0": 0,
+   "t1": 20,
+   "line": "Dust buries"
+  },
+  {
+   "shot": "S6",
+   "a": 272,
+   "b": 309,
+   "t0": 0,
+   "t1": 37,
+   "line": "the solar panels."
+  },
+  {
+   "shot": "S7",
+   "a": 309,
+   "b": 334,
+   "t0": 0,
+   "t1": 25,
+   "line": "Sweep."
+  },
+  {
+   "shot": "S8",
+   "a": 334,
+   "b": 364,
+   "t0": 0,
+   "t1": 30,
+   "line": "Lights on."
+  },
+  {
+   "shot": "S9",
+   "a": 364,
+   "b": 421,
+   "t0": 0,
+   "t1": 57,
+   "line": "What if you were stuck on Mars?"
+  },
+  {
+   "shot": "S10",
+   "a": 421,
+   "b": 509,
+   "t0": 0,
+   "t1": 88,
+   "line": "One catch: rescue waits for the planets to line up."
+  },
+  {
+   "shot": "S11",
+   "a": 509,
+   "b": 558,
+   "t0": 0,
+   "t1": 49,
+   "line": "Every twenty six months."
+  },
+  {
+   "shot": "S12",
+   "a": 558,
+   "b": 618,
+   "t0": 0,
+   "t1": 60,
+   "line": "That's real. The next window"
+  },
+  {
+   "shot": "S13",
+   "a": 618,
+   "b": 706,
+   "t0": 0,
+   "t1": 88,
+   "line": "opens tomorrow. Maybe."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "medium",
+   "key": 14,
+   "len": 99,
+   "first": 0,
+   "line": "No water. Dig. Ice under the dirt.",
+   "note": "Pip at the bench by the window, lamp light, holds a chunk of blue ice; a shovel leans against the wall"
+  },
+  {
+   "id": "S2",
+   "size": "macro insert, high angle",
+   "key": 20,
+   "len": 61,
+   "first": 99,
+   "line": "Melt it. No air.",
+   "note": "the ice chunk on a metal tray under a heat lamp, dripping into the flask; the water level rises"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 22,
+   "len": 66,
+   "first": 160,
+   "line": "The machine splits carbon dioxide.",
+   "note": "the oxygen machine on the right: its gauge swings, the blinking lights go green one by one; Pip nods at it"
+  },
+  {
+   "id": "S4",
+   "size": "close-up",
+   "key": 16,
+   "len": 26,
+   "first": 226,
+   "line": "Breathe.",
+   "note": "Pip takes a long breath, relieved; the blue console light rims him"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "key": 18,
+   "len": 20,
+   "first": 252,
+   "line": "Dust buries",
+   "note": "the storm beats on the window, the sun dims behind dust; Pip looks over from the bench"
+  },
+  {
+   "id": "S6",
+   "size": "insert, console feed",
+   "key": 22,
+   "len": 37,
+   "first": 272,
+   "line": "the solar panels.",
+   "note": "a monitor shows the solar array outside, crusted rust-red with dust; the output Gauge sits near zero"
+  },
+  {
+   "id": "S7",
+   "size": "macro insert, high angle",
+   "key": 20,
+   "len": 25,
+   "first": 309,
+   "line": "Sweep.",
+   "note": "the wiper arm sweeps across the feed, the cleared band glints; the Gauge bar jumps"
+  },
+  {
+   "id": "S8",
+   "size": "medium, low angle",
+   "key": 18,
+   "len": 30,
+   "first": 334,
+   "line": "Lights on.",
+   "note": "Pip throws the big breaker; the dome lamps come back on, the emergency strip dies; small in the frame"
+  },
+  {
+   "id": "S9",
+   "size": "title, wide",
+   "key": 46,
+   "len": 57,
+   "first": 364,
+   "line": "What if you were stuck on Mars?",
+   "note": "the habitat wide, Earth a pale dot in the darkening window; the title over it"
+  },
+  {
+   "id": "S10",
+   "size": "schematic",
+   "key": 44,
+   "len": 88,
+   "first": 421,
+   "line": "One catch: rescue waits for the planets to line up.",
+   "note": "two planets on their orbits, the transfer arc drawing on; 'ONE WINDOW' labels it"
+  },
+  {
+   "id": "S11",
+   "size": "schematic",
+   "key": 44,
+   "len": 49,
+   "first": 509,
+   "line": "Every twenty six months.",
+   "note": "a 26-month counter runs up between the two orbit marks; the window blinks"
+  },
+  {
+   "id": "S12",
+   "size": "extreme close-up",
+   "key": 16,
+   "len": 60,
+   "first": 558,
+   "line": "That's real. The next window",
+   "note": "Pip, worried; the console rim light starts to turn red"
+  },
+  {
+   "id": "S13",
+   "size": "wide, low angle",
+   "key": 44,
+   "len": 88,
+   "first": 618,
+   "line": "opens tomorrow. Maybe.",
+   "note": "the storm swallows the window, the habitat lights sink to the red strip, the suit hangs ready; the last line lands"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#DFF3FF",
+   "o": 0.25,
+   "f": 113
+  },
+  {
+   "kind": "flash",
+   "color": "#DFF3FF",
+   "o": 0.2,
+   "f": 226
+  },
+  {
+   "kind": "flash",
+   "color": "#DFF3FF",
+   "o": 0.2,
+   "f": 325
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.45,
+   "f": 344
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "f": 364
+  },
+  {
+   "kind": "flash",
+   "color": "#FF3A2A",
+   "o": 0.4,
+   "f": 618
+  },
+  {
+   "kind": "shake",
+   "len": 10,
+   "amp": 9,
+   "f": 618
+  }
+ ],
+ "audio": {
+  "voice": "mars-stuck/voice.wav",
+  "sfx": "mars-stuck/sfx.wav",
+  "voiceVol": 0.5795,
+  "sfxVol": 0.8,
+  "music": "mars-stuck/music.wav",
+  "musicVol": 0.1919
+ }
+}
